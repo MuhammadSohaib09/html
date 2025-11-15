@@ -1,0 +1,16 @@
+.carousel-inner.carl {
+  
+    margin: 5%;
+}
+
+.carousel-inner.carl .carousel-item {
+    max-width: 90%;
+    /* width: 100%; */
+}
+
+
+
+.cont{
+    width: 90%;
+    max-width: 1150px;
+}
